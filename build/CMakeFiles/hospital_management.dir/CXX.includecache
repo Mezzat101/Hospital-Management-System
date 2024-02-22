@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/Hospital.cpp
+vector
+-
+string
+-
+iostream
+-
+sstream
+-
+fstream
+-
+ios
+-
+limits
+-
+Hospital.hpp
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/Hospital.hpp
+
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/Hospital.hpp
+string
+-
+vector
+-
+map
+-
+
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+ios
+-
+limits
+-
+Hospital.hpp
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/Hospital.hpp
+

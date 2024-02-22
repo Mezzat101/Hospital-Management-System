@@ -1,0 +1,3 @@
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/build/CMakeFiles/rebuild_cache.dir
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/build/CMakeFiles/edit_cache.dir
+/media/moezzat/Embedded/Emedded Linux/C++/C++ Projects/Hospital management system/build/CMakeFiles/hospital_management.dir
